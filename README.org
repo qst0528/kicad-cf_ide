@@ -1,0 +1,2 @@
+* CompactFlash cards and DMA/UDMA support in True IDE (tm) mode
+http://support.fccps.cz/download/adv/frr/cf.html
